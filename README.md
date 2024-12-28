@@ -1,1 +1,1 @@
-# alura-challege-aluraflix
+# alura-challenge-alura-flix
