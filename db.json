@@ -1,0 +1,67 @@
+{
+    "categoria": [
+        {
+            "id": "256565",
+            "nombre": "alura",
+            "color": "#7b00e0",
+            "descripcion": "Esta es una descripcion de la categoria"
+        }
+    ],
+    "videos": [
+        {
+            "id": "1",
+            "title": "¿Qué es JavaScript?",
+            "metadescription": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? \n\n Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+            "categoria": {
+                "nombre": "alura",
+                "color": "#7b00e0"
+            },
+            "img": "GJfOSoaXk4s",
+            "embedId": "GJfOSoaXk4s"
+        },
+        {
+            "id": "18",
+            "title": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+            "metadescription": "El término profesional en T es muy utilizado en los días de hoy, pero ¿sabes que quiere decir y cómo ser un profesional en T? \n\nEn este video Christian Velasco, Head de Alura Latam, no ayudará a enteder sobre ese término y nos explicará como podemos convertirnos en un profesional en T, enseñándonos una herramienta muy válida para quienes quiere aprender más al respecto.",
+            "categoria": {
+                "nombre": "alura",
+                "color": "#7b00e0"
+            },
+            "img": "0udk1vXmwkc",
+            "embedId": "0udk1vXmwkc"
+        },
+        {
+            "id": "19",
+            "title": "Videos alura",
+            "metadescription": "frontend team",
+            "categoria": {
+                "nombre": "alura",
+                "color": "#7b00e0"
+            },
+            "img": "UuAX5azcvDQ",
+            "embedId": "UuAX5azcvDQ"
+        },
+        {
+            "id": "20",
+            "title": "Videos alura",
+            "metadescription": "frontend team",
+            "categoria": {
+                "nombre": "alura",
+                "color": "#7b00e0"
+            },
+            "img": "PlaQ913yggM",
+            "embedId": "PlaQ913yggM"
+        },
+        {
+            "id": "21",
+            "title": "Videos alura",
+            "metadescription": "Habllando del crud",
+            "categoria": {
+                "nombre": "alura",
+                "color": "#7b00e0"
+            },
+            "img": "jr_98HCSTZc",
+            "embedId": "jr_98HCSTZc"
+        }
+           ]
+}
